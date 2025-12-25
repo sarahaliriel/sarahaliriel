@@ -77,8 +77,8 @@
   <p align="center">
       <samp>
         ♡ <a href="https://www.instagram.com/chazinhodociel/">instagram</a> ⊹
-        <a href="discord.com/users/942126894478950530/">discord</a> ⊹
-        <a href="www.linkedin.com/in/sarah-aliriel-dumitrache-05aa54362">linkedin</a> ♡
+        <a href="https://discord.com/users/942126894478950530">discord</a> ⊹
+        <a href="https://www.linkedin.com/in/sarah-aliriel-dumitrache-05aa54362">linkedin</a> ♡
       </samp>
   </p>
 </div>
