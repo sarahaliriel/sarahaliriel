@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/JavaScript-ECDED1?style=for-the-badge&logo=javascript&logoColor=000000"/>
   <br>
   <img src="https://img.shields.io/badge/React-ECDED1?style=for-the-badge&logo=react&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/TypeScript-ECDED1?style=for-the-badge&logo=typescript&logoColor=000000"/>
+ <img src="https://img.shields.io/badge/Tailwind-ECDED1?style=for-the-badge&logo=tailwindcss&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Git-ECDED1?style=for-the-badge&logo=git&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Figma-ECDED1?style=for-the-badge&logo=figma&logoColor=000000"/>
 
