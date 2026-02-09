@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://i.pinimg.com/736x/26/f3/c7/26f3c72125948bf78da7016802c24842.jpg" />
+  <img align="center" height="150" src="public/helloworld.png" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 <samp>
   ʚ : building things with code & creativity ›› <br>
-  ʚ : front-end | design | video editor ››
+  ʚ : front-end | design | video editor ›› <br><br>
 </samp>
 
 </div>
@@ -31,7 +31,9 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ali_♡-black" />
+  <samp>
+    " powered by tea, rock and late-night ideas "
+  </samp>
 </div>
 
 <br>
@@ -44,7 +46,6 @@
       </samp>
   </summary>
   
-<br>
 
 ##
 
@@ -62,30 +63,44 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/HTML-ECDED1?style=for-the-badge&logo=html5&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/CSS-ECDED1?style=for-the-badge&logo=css3&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/CSS-ECDED1?style=for-the-badge&logo=css&logoColor=000000"/>
   <img src="https://img.shields.io/badge/JavaScript-ECDED1?style=for-the-badge&logo=javascript&logoColor=000000"/>
   <br>
   <img src="https://img.shields.io/badge/React-ECDED1?style=for-the-badge&logo=react&logoColor=000000"/>
- <img src="https://img.shields.io/badge/Tailwind-ECDED1?style=for-the-badge&logo=tailwindcss&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Git-ECDED1?style=for-the-badge&logo=git&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Figma-ECDED1?style=for-the-badge&logo=figma&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Tailwind-ECDED1?style=for-the-badge&logo=tailwindcss&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Typescript-ECDED1?style=for-the-badge&logo=typescript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-ECDED1?style=for-the-badge&logo=framer&logoColor=000000"/>
 
 </div>
 
 <br>
-<div align="center">
-  <p align="center">
-      <samp>
-        ♡ <a href="https://www.instagram.com/chazinhodociel/">instagram</a> ⊹
-        <a href="https://discord.com/users/942126894478950530">discord</a> ⊹
-        <a href="https://www.linkedin.com/in/sarah-aliriel-dumitrache-05aa54362">linkedin</a> ♡
-      </samp>
-  </p>
-</div>
 
 <div align="center">
-  <img align="center" height="100" src="https://i.pinimg.com/1200x/01/22/8b/01228bd3327e6d0cdc51fee1cef0870f.jpg" />
+  <samp>
+    <b>Personal Portfolio's</b>
+    <br><br>
+    ✦ <a href="https://sarahaliriel.tech">sarahaliriel.tech</a> <br>
+    ✦ video editor & designer portfolio - <i>coming soon!</i>
+  </samp>
 </div>
+
+<br>
+
+<div align="center">
+  <samp>
+    ♡ <a href="https://www.instagram.com/chazinhodociel/">instagram</a> ⊹
+    <a href="https://discord.com/users/942126894478950530">discord</a> ⊹
+    <a href="https://www.linkedin.com/in/sarah-aliriel-dumitrache-05aa54362">linkedin</a> ♡
+  </samp>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/by_ali_♡-black" />
+</div>
+
+<br>
 
 </details>
 
