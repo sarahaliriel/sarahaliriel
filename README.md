@@ -80,7 +80,7 @@
     <b>Personal Portfolio's</b>
     <br><br>
     ✦ <a href="https://sarahaliriel.tech">sarahaliriel.tech</a> <br>
-    ✦ video editor & designer portfolio - <i>coming soon!</i>
+    ✦ <a href="https://sarahaliriel.work">sarahaliriel.work</a> <br>
   </samp>
 </div>
 
