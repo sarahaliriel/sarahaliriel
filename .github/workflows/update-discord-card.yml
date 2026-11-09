@@ -20,7 +20,7 @@ jobs:
         run: python scripts/update_discord_card.py
       - name: Commit updated card (only when changed)
         run: |
-          if git diff --quiet -- assets/community-card.svg; then
+          if git diff --quiet -- public/community-card.svg; then
             echo 'No changes to community card.'
             exit 0
           fi
