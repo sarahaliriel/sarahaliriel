@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="250" viewBox="0 0 740 250" role="img" aria-label="Contribution activity">
+<rect width="740" height="250" rx="16" fill="#F8F2EB"/>
+<text x="28" y="35" font-family="Montserrat,Inter,Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#38271F">Contribution activity</text>
+<text x="28" y="56" font-family="Montserrat,Inter,Arial,Helvetica,sans-serif" font-size="11" font-weight="400" fill="#70594A">WEEKLY CONTRIBUTIONS · LAST 26 WEEKS</text>
+<path d="M 33 202 H 708" stroke="#D7C4B5" stroke-width="1"/>
+<rect x="39.0" y="194.7" width="16" height="6.3" rx="3" fill="#B99A82"/>
+<rect x="64.4" y="184.6" width="16" height="16.4" rx="3" fill="#B99A82"/>
+<rect x="89.8" y="196.0" width="16" height="5.0" rx="3" fill="#B99A82"/>
+<rect x="115.2" y="201.0" width="16" height="1.0" rx="3" fill="#E8D8C9"/>
+<rect x="140.6" y="199.7" width="16" height="1.3" rx="3" fill="#B99A82"/>
+<rect x="166.0" y="199.7" width="16" height="1.3" rx="3" fill="#B99A82"/>
+<rect x="191.4" y="201.0" width="16" height="1.0" rx="3" fill="#E8D8C9"/>
+<rect x="216.8" y="198.5" width="16" height="2.5" rx="3" fill="#B99A82"/>
+<rect x="242.2" y="153.2" width="16" height="47.8" rx="3" fill="#B99A82"/>
+<rect x="267.6" y="180.9" width="16" height="20.1" rx="3" fill="#B99A82"/>
+<rect x="293.0" y="185.9" width="16" height="15.1" rx="3" fill="#B99A82"/>
+<rect x="318.4" y="196.0" width="16" height="5.0" rx="3" fill="#B99A82"/>
+<rect x="343.8" y="201.0" width="16" height="1.0" rx="3" fill="#E8D8C9"/>
+<rect x="369.2" y="182.1" width="16" height="18.9" rx="3" fill="#B99A82"/>
+<rect x="394.6" y="178.4" width="16" height="22.6" rx="3" fill="#B99A82"/>
+<rect x="420.0" y="190.9" width="16" height="10.1" rx="3" fill="#B99A82"/>
+<rect x="445.4" y="145.6" width="16" height="55.4" rx="3" fill="#B99A82"/>
+<rect x="470.8" y="173.3" width="16" height="27.7" rx="3" fill="#B99A82"/>
+<rect x="496.2" y="199.7" width="16" height="1.3" rx="3" fill="#B99A82"/>
+<rect x="521.6" y="201.0" width="16" height="1.0" rx="3" fill="#E8D8C9"/>
+<rect x="547.0" y="193.5" width="16" height="7.5" rx="3" fill="#B99A82"/>
+<rect x="572.4" y="199.7" width="16" height="1.3" rx="3" fill="#B99A82"/>
+<rect x="597.8" y="168.3" width="16" height="32.7" rx="3" fill="#B99A82"/>
+<rect x="623.2" y="102.9" width="16" height="98.1" rx="3" fill="#B99A82"/>
+<rect x="648.6" y="84.0" width="16" height="117.0" rx="3" fill="#B99A82"/>
+<rect x="674.0" y="192.2" width="16" height="8.8" rx="3" fill="#B99A82"/>
+<text x="39" y="226" font-family="Montserrat,Inter,Arial,Helvetica,sans-serif" font-size="11" font-weight="400" fill="#70594A">May 18</text>
+<text x="701" y="226" font-family="Montserrat,Inter,Arial,Helvetica,sans-serif" font-size="11" font-weight="400" fill="#70594A" text-anchor="end">Nov 09</text>
+<text x="700" y="35" font-family="Montserrat,Inter,Arial,Helvetica,sans-serif" font-size="12" font-weight="400" fill="#70594A" text-anchor="end">415 in 26 weeks</text>
+</svg>
