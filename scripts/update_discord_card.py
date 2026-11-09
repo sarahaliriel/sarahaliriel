@@ -12,7 +12,7 @@ from xml.sax.saxutils import escape
 
 GUILD_ID = "1112920281367973900"
 INVITE_CODE = "programador"
-OUTPUT = Path(__file__).resolve().parents[1] / "assets" / "community-card.svg"
+OUTPUT = Path(__file__).resolve().parents[1] / "public" / "community-card.svg"
 
 
 def fetch(url):
