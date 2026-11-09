@@ -23,7 +23,7 @@ jobs:
         run: python scripts/update_github_stats.py
       - name: Commit SVGs if changed
         run: |
-          git add assets/github-overview.svg assets/github-streak.svg assets/github-activity.svg
+          git add public/github-overview.svg public/github-streak.svg public/github-activity.svg
           if git diff --cached --quiet; then
             echo 'No changes.'
             exit 0
