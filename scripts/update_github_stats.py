@@ -145,8 +145,6 @@ def make_cards(user):
 
         text(214, 146, str(repos), 23, DARK, 700),
         text(214, 165, 'public repos', 12, MUTED),
-
-        text(28, 171, f'{stars:,} stars across first 100 public repositories', 10, MUTED),
     ])
     write('github-overview.svg', parts)
 
