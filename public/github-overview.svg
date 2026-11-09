@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="190" viewBox="0 0 360 190" role="img" aria-label="GitHub overview">
+<rect width="360" height="190" rx="16" fill="#F8F2EB"/>
+<text x="28" y="35" font-family="Montserrat,Inter,Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#38271F">GitHub overview</text>
+<text x="180.0" y="115.0" font-family="Montserrat,Inter,Arial,Helvetica,sans-serif" font-size="13" font-weight="400" fill="#70594A" text-anchor="middle">Statistics will appear after the first workflow run</text>
+</svg>

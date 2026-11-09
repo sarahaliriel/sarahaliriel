@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="250" viewBox="0 0 740 250" role="img" aria-label="Contribution activity">
+<rect width="740" height="250" rx="16" fill="#F8F2EB"/>
+<text x="28" y="35" font-family="Montserrat,Inter,Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#38271F">Contribution activity</text>
+<text x="370.0" y="145.0" font-family="Montserrat,Inter,Arial,Helvetica,sans-serif" font-size="13" font-weight="400" fill="#70594A" text-anchor="middle">Statistics will appear after the first workflow run</text>
+</svg>
