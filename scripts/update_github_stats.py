@@ -10,7 +10,7 @@ from urllib.request import Request, urlopen
 from xml.sax.saxutils import escape
 
 ROOT = Path(__file__).resolve().parents[1]
-ASSETS = ROOT / 'assets'
+ASSETS = ROOT / 'public'
 USER = os.environ.get('GITHUB_USERNAME', 'sarahaliriel')
 TOKEN = os.environ.get('GITHUB_TOKEN')
 BG, DARK, MUTED, ACCENT, LIGHT = '#F8F2EB', '#38271F', '#70594A', '#B99A82', '#E8D8C9'
