@@ -1,17 +1,19 @@
 <br>
 
 <div align="left">
-  <img align="left" height="150" src="public/helloworld.png" alt="Sarah's black cat" />
-</div> 
+  <img
+    align="left"
+    height="150"
+    src="public/helloworld.png"
+    alt="Sarah's black cat"
+  />
+</div>
 
-### I'm Sarah Aliriel XD
+### I'm Sarah Aliriel! XD
+Frontend Engineer & Creative Developer.
 
-
-Frontend Engineer & Creative Developer!
-
-Building thoughtful digital experiences where engineering meets design.
-
-I create responsive, accessible and engaging interfaces with a focus on thoughtful interactions, clean architecture and the little details that make products feel human.
+I turn ideas into digital experiences worth exploring.
+With a focus on frontend development, UI engineering and interaction design, I build thoughtful solutions that feel intuitive to use and reliable in production.
 
 <a href="https://sarahaliriel.tech"><img src="https://img.shields.io/badge/DEVELOPER_WEBSITE-38271F?style=for-the-badge&logoColor=F8F2EB" alt="Developer portfolio" /></a>
 <a href="https://sarahaliriel.work"><img src="https://img.shields.io/badge/CREATIVE_WEBSITE-E8D8C9?style=for-the-badge&logoColor=38271F" alt="Creative portfolio" /></a>
@@ -30,10 +32,8 @@ I create responsive, accessible and engaging interfaces with a focus on thoughtf
   <img src="https://img.shields.io/badge/Figma-E8D8C9?style=for-the-badge&logo=figma&logoColor=38271F" alt="Figma" />
 </div>
 
-
 <br>
 <br>
-
 
 ### Selected projects.
 
@@ -53,7 +53,7 @@ A selection of things I've designed, built and brought to life.
       <sub>Next.js · React · TypeScript · Tailwind CSS · GSAP · Cloudflare Workers · Zod</sub>
       <br><br>
       <a href="https://www.metroaocubo.pt">
-       <img src="https://img.shields.io/badge/EXPLORE_PROJECT-38271F?style=for-the-badge&logoColor=F8F2EB" alt="Explore Project" /></a>
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-38271F?style=for-the-badge&logoColor=F8F2EB" alt="Explore Project" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -66,50 +66,71 @@ A selection of things I've designed, built and brought to life.
       <sub>Creative Development · UI/UX Design · Motion Design · Interactive Experiences</sub>
       <br><br>
       <a href="https://photography-archive-sarahaliriel.vercel.app/">
-        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-38271F?style=for-the-badge&logoColor=F8F2EB" alt="Explore Project" /></a>
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-38271F?style=for-the-badge&logoColor=F8F2EB" alt="Explore Project" />
       </a>
     </td>
   </tr>
 </table>
 
 <br>
-<br>
 
+<details>
+  <summary><b>More beyond the code ♡</b></summary>
 
-### Beyond the code.
+  <br>
+  <br>
 
-I also help nurture Servidor dos Programadores, a Brazilian developer community where people learn, share knowledge, exchange feedback and build together.
+  <h3>Beyond the code.</h3>
 
-<div align="left">
-  <a href="https://discord.gg/programador"><img src="public/community-card.svg" width="600" alt="Servidor dos Programadores developer community — join the Discord" /></a>
-</div>
+  <p>
+    I also help nurture Servidor dos Programadores, a Brazilian developer community where people learn, share knowledge, exchange feedback and build together.
+  </p>
 
-<br>
-<br>
+  <div align="left">
+    <a href="https://discord.gg/programador">
+      <img
+        src="public/community-card.svg"
+        width="600"
+        alt="Servidor dos Programadores developer community — join the Discord"
+      />
+    </a>
+  </div>
 
-### A little consistency goes a long way.
+  <br>
+  <br>
+
+ 
+<h3>A little consistency goes a long way.</h3>
 
 <div align="left">
   <img src="public/github-overview.svg" width="300" alt="Sarah's GitHub contribution overview" />
   <img src="public/github-streak.svg" width="300" alt="Sarah's GitHub contribution streak" />
-  
-  <br>
-  
+  <br><br>
   <img src="public/github-activity.svg" width="605" alt="GitHub contributions activity graph" />
 </div>
 
-<br>
-<br>
+</details>
+
+  <br>
 
 <div align="left">
-  
-  <sub>powered by tea, curiosity & late-night ideas ♡</sub>  <br>
+  <sub>powered by tea, curiosity & late-night ideas ♡</sub>
 
+  <br>
+  <br>
 
-<a href="https://sarahaliriel.tech"><img src="https://img.shields.io/badge/Developer_Portfolio-38271F?style=for-the-badge&logoColor=F8F2EB" alt="Developer portfolio" /></a>
-<a href="https://sarahaliriel.work"><img src="https://img.shields.io/badge/Creative_Portfolio-E8D8C9?style=for-the-badge&logoColor=38271F" alt="Creative portfolio" /></a>
-<a href="https://www.linkedin.com/in/sarah-aliriel-dumitrache-05aa54362"><img src="https://img.shields.io/badge/Linkedin-38271F?style=for-the-badge&logoColor=F8F2EB" alt="Linkedin" /></a>
-<a href="https://discord.com/users/942126894478950530"><img src="https://img.shields.io/badge/Discord-E8D8C9?style=for-the-badge&logoColor=38271F" alt="Discord" /></a>
-
+  <a href="https://sarahaliriel.tech">
+    <img src="https://img.shields.io/badge/Developer_Portfolio-38271F?style=for-the-badge&logoColor=F8F2EB" alt="Developer portfolio" />
+  </a>
+  <a href="https://sarahaliriel.work">
+    <img src="https://img.shields.io/badge/Creative_Portfolio-E8D8C9?style=for-the-badge&logoColor=38271F" alt="Creative portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarah-aliriel-dumitrache-05aa54362">
+    <img src="https://img.shields.io/badge/Linkedin-38271F?style=for-the-badge&logoColor=F8F2EB" alt="Linkedin" />
+  </a>
+  <a href="https://discord.com/users/942126894478950530">
+    <img src="https://img.shields.io/badge/Discord-E8D8C9?style=for-the-badge&logoColor=38271F" alt="Discord" />
+  </a>
+</div>
 
 <br>
