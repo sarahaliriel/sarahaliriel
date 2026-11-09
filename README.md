@@ -1,109 +1,62 @@
 <br>
-<br>
-<br>
 
-<div align="center">
-  <img align="center" height="150" src="public/helloworld.png" />
+<div align="left">
+  <img align="left" height="150" src="public/helloworld.png" alt="Sarah's black cat" />
+</div>I'm Sarah Aliriel XD
+
+
+Frontend Engineer & Creative Developer!
+
+Building thoughtful digital experiences where engineering meets design.
+
+I create responsive, accessible and engaging interfaces with a focus on thoughtful interactions, clean architecture and the little details that make products feel human.
+
+<a href="https://sarahaliriel.tech"><img src="https://img.shields.io/badge/DEVELOPER_WEBSITE-38271F?style=for-the-badge&logoColor=F8F2EB" alt="Developer portfolio" /></a>
+<a href="https://sarahaliriel.work"><img src="https://img.shields.io/badge/CREATIVE_WEBSITE-E8D8C9?style=for-the-badge&logoColor=38271F" alt="Creative portfolio" /></a>
+<br>
+<br>
+Technologies I work with.
+<div align="left">
+  <img src="https://img.shields.io/badge/React-E8D8C9?style=flat-square&logo=react&logoColor=38271F" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-E8D8C9?style=flat-square&logo=nextdotjs&logoColor=38271F" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-E8D8C9?style=flat-square&logo=typescript&logoColor=38271F" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-E8D8C9?style=flat-square&logo=javascript&logoColor=38271F" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-E8D8C9?style=flat-square&logo=tailwindcss&logoColor=38271F" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/GSAP-E8D8C9?style=flat-square&logo=greensock&logoColor=38271F" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Figma-E8D8C9?style=flat-square&logo=figma&logoColor=38271F" alt="Figma" />
 </div>
 
-<div align="center">
+<br>
+<br>
+
+Beyond the code.
+I also help nurture Servidor dos Programadores, a Brazilian developer community where people learn, share knowledge, exchange feedback and build together.
+
+<div align="left">
+  <a href="https://discord.gg/programador"><img src="public/community-card.svg" width="480" alt="Servidor dos Programadores developer community — join the Discord" /></a>
+</div>
+
+<br>
+<br>
+
+A little consistency goes a long way.
+
+<div align="left">
+  <img src="public/github-overview.svg" width="260" alt="Sarah's GitHub contribution overview" />
+  <img src="public/github-streak.svg" width="260" alt="Sarah's GitHub contribution streak" />
   
-  <b>`ପ ، hello world ! .̣ `</b>
-  <samp>
-      <br>
-      <br>
-      I'm <b>Sarah Aliriel</b> XD
-  </samp>
-
-<samp>
-  ʚ : building things with code & creativity ›› <br>
-  ʚ : front-end | design | video editor ›› <br><br>
-</samp>
-
-</div>
-
-<br>
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=000000&width=900&size=22&center=true&lines=Front+End+Developer;Future+Student+of+Computer+Engineering;Welcome+To+My+Profile!" alt="Typing SVG"/>
-</div>
-
-<br>
-
-<div align="center">
-  <samp>
-    " powered by tea, rock and late-night ideas "
-  </samp>
-</div>
-
-<br>
-<br>
-
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
+  <br>
   
-
-##
-
-<br>
-
-<div align="center">
-  <samp>
-    <b>
-      Tech's I use
-    </b>
-  </samp>
-  <br>
-  <br>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/HTML-ECDED1?style=for-the-badge&logo=html5&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/CSS-ECDED1?style=for-the-badge&logo=css&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/JavaScript-ECDED1?style=for-the-badge&logo=javascript&logoColor=000000"/>
-  <br>
-  <img src="https://img.shields.io/badge/React-ECDED1?style=for-the-badge&logo=react&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Tailwind-ECDED1?style=for-the-badge&logo=tailwindcss&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Typescript-ECDED1?style=for-the-badge&logo=typescript&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-ECDED1?style=for-the-badge&logo=framer&logoColor=000000"/>
-
+  <img src="public/github-activity.svg" width="522" alt="GitHub contributions activity graph" />
 </div>
 
-<br>
+<div align="left">
+  
+  <sub>powered by tea, curiosity & late-night ideas ♡</sub>  <br>
+  
+  <a href="https://sarahaliriel.tech">developer portfolio</a> ·
+  <a href="https://sarahaliriel.work">creative work</a> ·
+  <a href="https://www.linkedin.com/in/sarah-aliriel-dumitrache-05aa54362">linkedin</a> ·
+  <a href="https://discord.com/users/942126894478950530">discord</a> 
 
-<div align="center">
-  <samp>
-    <b>Personal Portfolio's</b>
-    <br><br>
-    ✦ <a href="https://sarahaliriel.tech">sarahaliriel.tech</a> <br>
-    ✦ <a href="https://sarahaliriel.work">sarahaliriel.work</a> <br>
-  </samp>
-</div>
-
-<br>
-
-<div align="center">
-  <samp>
-    ♡ <a href="https://www.instagram.com/chazinhodociel/">instagram</a> ⊹
-    <a href="https://discord.com/users/942126894478950530">discord</a> ⊹
-    <a href="https://www.linkedin.com/in/sarah-aliriel-dumitrache-05aa54362">linkedin</a> ♡
-  </samp>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/by_ali_♡-black" />
-</div>
-
-<br>
-
-</details>
-
-<br>
-<br>
 <br>
