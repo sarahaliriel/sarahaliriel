@@ -85,8 +85,17 @@ def make_cards(user):
         if is_on(day):run+=1;longest=max(longest,run)
         else:run=0
     parts=frame(360,190,'Contribution streak','LAST 12 MONTHS · UTC')
-    parts.extend(['<circle cx="180" cy="100" r="50" stroke="#E6D8CC" stroke-width="9" fill="none"/>','<circle cx="180" cy="100" r="50" stroke="#B99A82" stroke-width="9" stroke-dasharray="220 314" stroke-linecap="round" fill="none" transform="rotate(-90 180 100)"/>',text(180,110,current,37,DARK,700,'middle'),text(59,103,longest,26,DARK,700,'middle'),text(59,125,'longest',11,MUTED,400,'middle'),text(304,103,active,26,DARK,700,'middle'),text(304,125,'active days',11,MUTED,400,'middle'),text(180,174,'current streak · days',12,MUTED,500,'middle')])
-    write('github-streak.svg',parts)
+
+    parts.extend([
+        '<circle cx="180" cy="113" r="36" stroke="#E6D8CC" stroke-width="8" fill="none"/>',
+        '<circle cx="180" cy="113" r="36" stroke="#B99A82" stroke-width="8" stroke-dasharray="160 226" stroke-linecap="round" fill="none" transform="rotate(-90 180 113)"/>',
+        text(180, 124, current, 35, DARK, 700, 'middle'),
+        text(58, 116, longest, 26, DARK, 700, 'middle'),
+        text(58, 138, 'longest', 11, MUTED, 400, 'middle'),
+        text(303, 116, active, 26, DARK, 700, 'middle'),
+        text(303, 138, 'active days', 11, MUTED, 400, 'middle'),
+        text(180, 174, 'current streak · days', 12, MUTED, 500, 'middle')
+    ])
 
     # Weekly bar-chart: real contribution counts, zero-based with last 26 weeks shown.
     last_weeks=[]
