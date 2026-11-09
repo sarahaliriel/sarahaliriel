@@ -63,7 +63,7 @@ A selection of things I've designed, built and brought to life.
       <br><br>
       Designed and developed an interactive photography archive that explores visual storytelling through immersive layouts, expressive motion and custom UI elements. Focused on art direction, fluid transitions and crafting an engaging digital experience where photography and creative engineering come together.
       <br><br>
-      <sub>Creative Development · UI/UX Design · Motion Design · Interactive Experiences</sub>
+      <sub>Creative Development · UI/UX Design · Photography Hobby</sub>
       <br><br>
       <a href="https://photography-archive-sarahaliriel.vercel.app/">
         <img src="https://img.shields.io/badge/EXPLORE_PROJECT-38271F?style=for-the-badge&logoColor=F8F2EB" alt="Explore Project" />
