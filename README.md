@@ -119,18 +119,10 @@ A selection of things I've designed, built and brought to life.
   <br>
   <br>
 
-  <a href="https://sarahaliriel.tech">
-    <img src="https://img.shields.io/badge/Developer_Portfolio-38271F?style=for-the-badge&logoColor=F8F2EB" alt="Developer portfolio" />
-  </a>
-  <a href="https://sarahaliriel.work">
-    <img src="https://img.shields.io/badge/Creative_Portfolio-E8D8C9?style=for-the-badge&logoColor=38271F" alt="Creative portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/sarah-aliriel-dumitrache-05aa54362">
-    <img src="https://img.shields.io/badge/Linkedin-38271F?style=for-the-badge&logoColor=F8F2EB" alt="Linkedin" />
-  </a>
-  <a href="https://discord.com/users/942126894478950530">
-    <img src="https://img.shields.io/badge/Discord-E8D8C9?style=for-the-badge&logoColor=38271F" alt="Discord" />
-  </a>
+<a href="https://sarahaliriel.tech"><img src="https://img.shields.io/badge/Developer_Portfolio-38271F?style=for-the-badge&logoColor=F8F2EB" alt="Developer portfolio" /></a>
+<a href="https://sarahaliriel.work"><img src="https://img.shields.io/badge/Creative_Portfolio-E8D8C9?style=for-the-badge&logoColor=38271F" alt="Creative portfolio" /></a>
+<a href="https://www.linkedin.com/in/sarah-aliriel-dumitrache-05aa54362"><img src="https://img.shields.io/badge/Linkedin-38271F?style=for-the-badge&logoColor=F8F2EB" alt="Linkedin" /></a>
+<a href="https://discord.com/users/942126894478950530"><img src="https://img.shields.io/badge/Discord-E8D8C9?style=for-the-badge&logoColor=38271F" alt="Discord" /></a>
 </div>
 
 <br>
